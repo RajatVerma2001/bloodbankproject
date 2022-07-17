@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "835001630320",
+    "project_id": "bloodbankproject-bafce",
+    "storage_bucket": "bloodbankproject-bafce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835001630320:android:6af41f1f3497a7c0f57eb5",
+        "android_client_info": {
+          "package_name": "com.example.bloodbankproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835001630320-8ghhbotntp3v6qead4mc409remj9l78p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv5hSVU3siRVsE6YrCHlxvRJclWop2yuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835001630320-8ghhbotntp3v6qead4mc409remj9l78p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
