@@ -149,7 +149,7 @@ class _BookingScreenState extends State<BookingScreen> {
               backgroundColor: Colors.white,
               child: Icon(
                 Icons.delete,
-                color: Colors.white,
+                color: priColor,
               ),
               onPressed: () async {
                 var x = await CloudDataSourceImpl(widget.firebaseFirestore);
