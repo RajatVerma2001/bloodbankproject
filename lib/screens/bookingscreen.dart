@@ -49,8 +49,9 @@ class _BookingScreenState extends State<BookingScreen> {
 
   void onSelectingBloodGroup(String? value) {
     setState(() {
-      if (widget.donationBooking != null)
+      if (widget.donationBooking != null) {
         widget.donationBooking!.bloodGroup = value;
+      }
     });
   }
 
